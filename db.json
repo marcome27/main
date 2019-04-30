@@ -18,15 +18,5 @@
       "name": "Kiwi",
       "status": "Review"
     }
-  ],
-"Users": [
-    {
-      "id": 1,
-      "user_name": "Marco",
-    },
-    {
-      "id": 2,
-      "user_name": "Kathy",
-    }
-  ]  
+  ]
 }
